@@ -2,6 +2,6 @@
 Will be creating reports/writeups/notes for the practice labs I do. 
 
 
-CherryTree Notes
+CherryTree Notes:
 academy
 dev 
